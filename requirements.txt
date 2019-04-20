@@ -1,0 +1,7 @@
+socket
+httplib
+smtplib
+mechanize
+ftplib
+hashlib
+python-whois
